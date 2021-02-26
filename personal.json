@@ -1,9 +1,9 @@
 [
   {
-    "name": "I found interest in App Development, I really enjoy making applications.",
-    "species": "Im a Beginner in App Development, Im doing my best to develop my skills in it and publish my own Application.",
+    "name": "I'm",
+    "species": "creative person",
     "foods": {
-      "likes": [ "tuna", "catnip" ],
+      "likes": [ "Arts", "Crafts" ],
       "dislikes": [ "ham", "zucchini" ]
     }
   },
