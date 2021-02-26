@@ -3,7 +3,7 @@
     "name": "I'm",
     "species": "creative person",
     "foods": {
-      "likes": [ "Arts", "Crafts" ],
+      "likes": [ "Arts & Crafts"],
       "dislikes": [ "ham", "zucchini" ]
     }
   }
